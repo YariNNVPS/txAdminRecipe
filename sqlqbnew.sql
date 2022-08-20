@@ -13,10 +13,6 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 
--- Dumping database structure for fxzsql
-CREATE DATABASE IF NOT EXISTS `fxzsql` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `fxzsql`;
-
 -- Dumping structure for table fxzsql.addon_account
 DROP TABLE IF EXISTS `addon_account`;
 CREATE TABLE IF NOT EXISTS `addon_account` (
